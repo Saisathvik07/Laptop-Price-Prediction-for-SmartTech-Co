@@ -1,5 +1,5 @@
 # Laptop-Price-Prediction-for-SmartTech-Co 
-This project shows a Laptop price prediction system by using the supervised machine learning technique. The research uses random decision forest as the machine learning prediction method which offered 88.7% prediction precision.
+This project shows a Laptop price prediction system by using the supervised machine learning technique. The research uses random decision forest as the machine learning prediction method which offered 81.7% prediction precision.
 
 Using random decision forest, there are multiple independent variables but one and only one dependent variable whose actual and predicted values are compared to find precision of results.
 
